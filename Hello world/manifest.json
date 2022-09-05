@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Hello World",
+    "version": "1.0.0",
+    "description": "Dummy Hello World...",
+    "icons":{
+        "128":"./icons/128.png",
+        "48":"./icons/48.png",
+        "32":"./icons/32.png",
+        "16":"./icons/16.png"
+    },
+    "action":{
+        "defaukt_icon": "./icons/16.png",
+        "default_popup": "index.html",
+        "default_title": "CODE KARLO DIDI!!"
+    }
+}
